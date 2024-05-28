@@ -26,7 +26,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_adaptive_ui: ^0.8.0+1
-  flutter_bloc: ^8.1.2
+  flutter_bloc: ^7.0.0
   flutter_conditional_rendering: ^2.0.0
   flutter_image_map: ^0.9.3
   flutter_localizations:
